@@ -1,34 +1,39 @@
-# 👋 Hi, I'm Vijaya Rama Seshu Meruva
+# Hi, I'm Vijaya Rama Seshu Meruva 👋
 
-🎓 MSc Computing @ SETU, Ireland  
-📊 Data Analyst | SQL | Power BI | Python  
+🎓 MSc Computing (Information Systems & Processes) at SETU, Ireland  
+📊 Aspiring Data Analyst | SQL | Python | Power BI | Tableau  
+📍 Based in Ireland
 
----
+## About Me
+I am building practical data analytics projects focused on business insights, dashboards, reporting, and decision-making.
 
-## 🚀 Featured Projects
+## Skills
+- SQL
+- Python
+- Power BI
+- Tableau
+- Excel
+- Data Cleaning
+- Data Visualization
+- Business Analysis
 
-### 🥋 Martial Arts Academy Analytics
-👉 https://github.com/ramaseshu-data/martial-arts-academy-analytics
+## Featured Projects
+### 1. Martial Arts Academy Analytics
+A data analytics project focused on academy operations, student trends, and business insights.  
+**Tools:** Python, Power BI, Excel  
+[View Project](https://github.com/ramaseshu-Data/martial-arts-academy-analytics)
 
-- SQL + Power BI project  
-- Built dashboards for revenue, attendance, retention  
-- Identified at-risk students  
+### 2. FreshFood AI Food Waste Analytics
+A project analyzing food waste patterns and predictive insights for better decision-making.  
+**Tools:** Python, Data Analysis, Visualization  
+[View Project](https://github.com/ramaseshu-Data/freshfood-ai-food-waste-analytics)
 
----
+## Currently Learning
+- Advanced SQL
+- Python for Data Analysis
+- Power BI dashboards
+- Real-world portfolio projects
 
-### 🍃 FreshFood AI Analytics
-👉 https://github.com/ramaseshu-data/freshfood-ai-food-waste-analytics
-
-- AI-based analytics concept  
-- Focus on food waste prediction  
-- Data-driven sustainability approach  
-
----
-
-## 🛠 Skills
-SQL • Power BI • Python • Excel • Data Analytics • DAX • ETL  
-
----
-
-## 📫 Connect
-LinkedIn: https://www.linkedin.com/in/vijaya-rama-seshu-meruva-5a5480b3/
+## Connect With Me
+- LinkedIn: ADD_YOUR_LINK
+- Email: ramaseshu34@gmail.com
